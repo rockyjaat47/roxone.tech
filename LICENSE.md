@@ -1,7 +1,3 @@
-Here's a draft for a **LICENSE.md** file tailored to Roxone.ai. This combines a proprietary license for code/IP protection with guidelines for contributors and users. Adjust as needed (consult a legal professional for final compliance):
-
----
-
 # Roxone.ai License Agreement  
 **Version 1.0** | **Effective Date**: [30-01-2025]  
 
