@@ -1,5 +1,3 @@
-**Readme.md for Roxone.ai**  
-
 🌟 **Welcome to Roxone.ai** 🌟  
 Your AI-powered companion for mastering **digital marketing** and **Meta Ads**! Created by **Prabal Jaat** (Meta-certified AI developer and digital marketing expert), Roxone.ai is designed to empower learners, marketers, and businesses with actionable insights, strategies, and AI-driven guidance.  
 
